@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Quantity,Price,Month
+1,Laptop,Electronics,2,50000,January
+2,Mobile,Electronics,5,15000,January
+3,Chair,Furniture,4,3000,February
+4,Table,Furniture,2,7000,February
+5,Headphones,Electronics,6,2000,March
+6,Laptop,Electronics,1,50000,March
+7,Chair,Furniture,3,3000,April
+8,Mobile,Electronics,4,15000,April
+9,Table,Furniture,3,7000,May
+10,Headphones,Electronics,5,2000,May
